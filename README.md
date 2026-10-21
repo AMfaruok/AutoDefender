@@ -27,7 +27,7 @@ https://drive.google.com/file/d/15a5QilhPRNQcf25GqksWPqUMT7Se11fM/view?usp=shari
 
 ## 📁 Repository Structure
 * `/scripts` - Python automation and active-response scripts.
-* `/configs` - Custom Snort rules (.rules) and Router/Switch configurations (.cfg).
+* `/configs`
 * `/topology` - GNS3 network design files and project screenshots.
 
 ## 🚀 Key Takeaways
