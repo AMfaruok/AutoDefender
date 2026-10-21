@@ -1,8 +1,6 @@
 # AutoDefender
 An intelligent network intrusion response system built with Snort IDS, Python, and GNS3.
 
-# 🛡️ AutoDefender: Intelligent Intrusion Response System
-
 ## 📌 Project Overview
 AutoDefender is an automated network security solution designed to detect and autonomously respond to malicious network traffic. Built as a graduation project, it integrates network simulation, intrusion detection, and custom automation scripts to minimize incident response time.
 
