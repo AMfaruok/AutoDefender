@@ -22,8 +22,8 @@ AutoDefender is an automated network security solution designed to detect and au
 3. **Automated Response:** A Python script continuously parses Snort logs. Once a critical threat is detected, it automatically executes commands to update firewall rules, blocking the attacker's IP address dynamically.
 
 🎥 System in Action (Demo)
-[](https://drive.google.com/file/d/15a5QilhPRNQcf25GqksWPqUMT7Se11fM/view?usp=sharing)
-](https://drive.google.com/file/d/15a5QilhPRNQcf25GqksWPqUMT7Se11fM/view?usp=sharing)
+
+https://drive.google.com/file/d/15a5QilhPRNQcf25GqksWPqUMT7Se11fM/view?usp=sharing
 
 ## 📁 Repository Structure
 * `/scripts` - Python automation and active-response scripts.
